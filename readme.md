@@ -59,4 +59,11 @@ error: src refspec main does not match any
 error: failed to push some refs to 'https://github.com/vaibhavrc/dacMarch23.git'
 
 Vaibhav@DESKTOP-QLH7V9S MINGW64 ~/Documents/CDAC/SDM (master)
-$
+$git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+Vaibhav@DESKTOP-QLH7V9S MINGW64 ~/Documents/CDAC/SDM (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
